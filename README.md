@@ -1,7 +1,7 @@
 <h1 align="center"> Dashboards Power BI </h1>
 
 
-Este repositório no GitHub contém diversos dashboards criados no Power BI durante meus estudos particulares. Cada dashboard apresenta uma visualização intuitiva e dinâmica de diferentes conjuntos de dados, fornecendo informações valiosas em tempo real.
+Este repositório contém dashboards criados no Power BI durante meus estudos particulares. Cada dashboard apresenta uma visualização intuitiva e dinâmica de diferentes conjuntos de dados, fornecendo informações valiosas em tempo real.
 
 Os dashboards abrangem uma variedade de tópicos, desde análise de dados na área da saúde até dados da área de marketing. Todos foram desenvolvidos com o objetivo de aprimorar minhas habilidades no Power BI e explorar diferentes funcionalidades e recursos da ferramenta.
 
